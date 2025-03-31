@@ -5,13 +5,11 @@
 
 
 
+- PrecisionMouse is currently available by invitation only.
 
-
-- Download PrecisionMouse For Free (macOS Only)
 
 
   
-https://github.com/theBearRiverGroup/theBearRiverGroup/blob/84877045eabc12a84224db9c91962638dd42309b/PrecisionMouse.app.zip
 
 
 <!---
